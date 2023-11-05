@@ -14,7 +14,7 @@
 
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="429.0" prefWidth="688.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <center>
-      <AnchorPane prefHeight="450.0" prefWidth="688.0" stylesheets="@../../../../java/com/dsa/triageapp/CSS/Style.css" BorderPane.alignment="CENTER">
+      <AnchorPane prefHeight="450.0" prefWidth="688.0" stylesheets="@../css/Style.css" BorderPane.alignment="CENTER">
          <children>
             <Text fill="#2f5f78" layoutX="240.0" layoutY="53.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Patient Assesment">
                <font>
@@ -89,7 +89,7 @@
                   <Font size="16.0" />
                </font>
             </TextField>
-            <Button layoutX="348.0" layoutY="305.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="198.5" styleClass="button1" stylesheets="@../../../../java/com/dsa/triageapp/CSS/Style.css" text="Add patient" textFill="#2f5f78">
+            <Button layoutX="348.0" layoutY="305.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="198.5" styleClass="button1" stylesheets="@../css/Style.css" text="Add patient" textFill="#2f5f78">
                <font>
                   <Font size="16.0" />
                </font>
